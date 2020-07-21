@@ -2,7 +2,7 @@
   "name": "calculator-react-typescript",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tuanpham-dev.github.io/calculator-react-typescript/",
+  "homepage": "https://paraggoyal28.github.io/calculator-react-typescript/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -43,7 +43,6 @@
   },
   "devDependencies": {
     "@types/styled-components": "^5.0.1",
-    "eslint": "^7.5.0",
     "prettier": "2.0.5"
   },
   "husky": {
